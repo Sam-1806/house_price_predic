@@ -6,10 +6,15 @@ The dataset consists of details like information about the location of the house
 
 Dependencie:
 Python (version 3.6 or higher)
+
 Scikit-learn
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 
 To install:
 pip install -r requirements.txt
